@@ -1,3 +1,3 @@
 # my-project
 this is my 1st project
-Muna Maharana
+my name is Muna Maharana
